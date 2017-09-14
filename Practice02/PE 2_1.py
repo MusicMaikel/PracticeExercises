@@ -4,4 +4,4 @@ aantalA = letters.count('A')
 aantalB = letters.count('B')
 aantalC = letters.count('C')
 
-print()
+print([aantalA, aantalB, aantalC])
