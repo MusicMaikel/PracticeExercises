@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../TICT-V1PROG-15/.idea/PROG.iml" filepath="$PROJECT_DIR$/../TICT-V1PROG-15/.idea/PROG.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Practice.iml" filepath="$PROJECT_DIR$/.idea/Practice.iml" />
     </modules>
   </component>
